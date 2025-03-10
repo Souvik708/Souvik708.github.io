@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-# S. VenkataKeerthy
+# Souvik Sarkar
 ### Department of Computer Science and Engineering, IIT Hyderabad.
 
 ![Profile Picture](assets/images/profile.jpg){: style="border-radius: 10px; width: 150px;" }
 
-I am a final-year doctoral student in the Department of Computer Science and Engineering at IIT Hyderabad, advised by Dr. Ramakrishna Upadrasta.
+I am a final-year masters student in the Department of Computer Science and Engineering at IIT Hyderabad, advised by Prof. Sathya Peri.
 
 ---
 
