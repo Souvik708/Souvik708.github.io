@@ -1,0 +1,9 @@
+title: "Souvik Sarkar"
+description: "Personal Portfolio Website"
+baseurl: "" 
+url: "https://yourusername.github.io"
+author: "Souvik Sarkar"
+theme: minima  # You can change the theme
+show_excerpts: true
+plugins:
+  - jekyll-feed
